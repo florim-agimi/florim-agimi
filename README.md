@@ -1,4 +1,4 @@
-### Hi, I'm Florim 👋 a digital enthusiast with a passion for making things better with technology. 
+Hi, I'm Florim 👋 a digital enthusiast with a passion for making things better with technology. 
  
 I'm continuously expanding my technical expertise in:
 - HTML/CSS
