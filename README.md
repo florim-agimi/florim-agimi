@@ -2,11 +2,9 @@ Hi, I'm Florim 👋 a digital enthusiast with a passion for making things better
  
 I'm continuously expanding my technical expertise in:
 - HTML/CSS
-- Tailwind CSS
 - Javascript/Typescript
-- React</li>
-- Next JS</li>
-- Astro JS</li>
+- Frontend frameworks such as Next.js & Nuxt
+- Git
 
 I work full-time as a digital business analyst. In my spare time I run a digital agency called [Aureate Digital](https://www.aureatedigital.com.au), which gives me an opportunity to flex my web development skills.  
 
