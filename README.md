@@ -1,25 +1,7 @@
-Hi, I'm Florim 👋 a digital enthusiast with a passion for making things better with technology. 
- 
-I'm continuously expanding my technical expertise in:
-- HTML/CSS
-- Javascript/Typescript
-- Frontend frameworks such as Next.js & Nuxt
-- Git
+Hi, I'm Florim. I enjoy building solutions with technology.
 
-I work full-time as a digital business analyst. In my spare time I run a digital agency called [Aureate Digital](https://www.aureatedigital.com.au), which gives me an opportunity to flex my web development skills.  
+I’m always improving how I build across web apps, systems, integrations, data, automation, and AI.
 
-I post about my developer journey, ideas, challenges, projects & anything I find interesting on [florim.dev](https://www.florim.dev)
-<!--
-**florim-agimi/florim-agimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work full-time as a digital business analyst. In my spare time, I run a digital agency called [Aureate Digital](https://www.aureatedigital.com.au), where I design and build for real clients.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I post about what I'm learning, my ideas, challenges, projects, and anything I find interesting on [florim.dev](https://www.florim.dev).
